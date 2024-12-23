@@ -29,7 +29,7 @@ However, the remaining flip-flops should be made ready to toggle only when all l
 
 **PROGRAM**
 ```
-Developed by: SURYA D RegisterNumber:24901185
+Developed by:Baradhan.L RegisterNumber:24005473
 ```
 ```
 module ex11(out,clk,rstn);
